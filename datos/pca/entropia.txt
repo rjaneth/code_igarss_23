@@ -1,0 +1,4 @@
+Entropía de Shannon para el rayo 1: 0.19308148174922474
+Entropía de Shannon para el rayo 2: 0.8070655991059746
+Entropía de Shannon para el rayo 3: 1.7122006855456173
+Entropía de Shannon para el rayo 4: 0.013153144426269489

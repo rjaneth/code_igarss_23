@@ -1,0 +1,1 @@
+Entropía de Shannon para el rayo 8: 0.7714598478874258
